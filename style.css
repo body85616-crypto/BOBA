@@ -7,3 +7,7 @@ body {
     background: azure;
     color: purple;
 }
+a { 
+    display: block; margin-top: 20px;
+}
+
